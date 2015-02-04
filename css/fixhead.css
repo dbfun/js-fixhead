@@ -1,0 +1,20 @@
+.fixhead-head {
+  position: relative;
+  overflow: hidden;
+}
+.fixhead-head > div {
+  background: #afe1da;
+  float: left;
+  color: #fff;
+  padding: 5px 10px;
+  box-sizing: border-box;
+}
+.fixhead-table .col {
+  padding: 5px 10px;
+}
+.fixhead-table .col-1,
+.fixhead-table .col-3,
+.fixhead-table .col-5 {
+  background: #c5e8e3;
+}
+
